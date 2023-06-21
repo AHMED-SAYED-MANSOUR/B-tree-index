@@ -1,0 +1,3 @@
+D:/MY space/my lectures/3rd yera/first term/files/assignments/assignment two/code/cmake-build-debug/CMakeFiles/code.dir
+D:/MY space/my lectures/3rd yera/first term/files/assignments/assignment two/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MY space/my lectures/3rd yera/first term/files/assignments/assignment two/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
